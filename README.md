@@ -11,7 +11,7 @@ O projeto foi desenvolvido no **Google Colab**, permitindo que qualquer usuário
 Você pode executar o notebook diretamente no navegador:
 
 1. Acesse o arquivo principal do projeto (`Codigo.ipynb`)  
-2. Clique em **"Open in Colab"** ou abra manualmente via:  
+2. Clique em abra manualmente o notebook no colab via:  
    **Colab → Arquivo → Abrir notebook → GitHub → cole a URL do repositório**
 
 ---
